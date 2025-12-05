@@ -91,7 +91,7 @@ export async function POST(request: Request) {
         
         console.log("🤖 Respuesta bruta de Titan:", aiText);
 
-        const jsonMatch = aiText.match(/\[.*\]/s);
+        const jsonMatch = aiText.match(/\[[\s\S]*\]/);
         if (!jsonMatch) {
             throw new Error("La IA no devolvió una lista válida.");
         }
