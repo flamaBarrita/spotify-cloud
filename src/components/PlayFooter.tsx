@@ -18,8 +18,6 @@ export default function PlayerFooter() {
         }
       }
     }, [isPlaying, currentSong]);
-    console.log("🎵 Datos de la canción actual:", currentSong);
-    console.log("🔗 URL del audio:", currentSong?.audioSrc);
 
     if (!currentSong) {
         return (
