@@ -6,6 +6,7 @@ import { Authenticator } from "@aws-amplify/ui-react";
 
 import { PlayerProvider } from '@/context/PlayerContext';
 import MainDashboard from '@/components/MainDashboard'; // Lo crearemos en el siguiente paso
+import { LibraryProvider } from '@/context/LibraryContext'; // <
 
 Amplify.configure({
   Auth: {
@@ -20,10 +21,15 @@ Amplify.configure({
   },
 });
 
+
+
 // Componente que maneja la lógica de la App una vez logueado
 const ProtectedApp = () => (
     <PlayerProvider>
-        <MainDashboard />
+        <LibraryProvider>
+            <MainDashboard />
+        </LibraryProvider>
+        
     </PlayerProvider>
 )
 

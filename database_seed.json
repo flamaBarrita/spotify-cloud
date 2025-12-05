@@ -1,0 +1,323 @@
+[
+  {
+    "itemId": "song_002",
+    "title": "Angels We Have Heard",
+    "genre": "navidena",
+    "mood": [
+      "Fiesta"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/navidena/Fiesta_Angels%20We%20Have%20Heard.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/navidenas/navi1.jpg",
+    "description": "navidena - Vibe: Fiesta"
+  },
+  {
+    "itemId": "song_003",
+    "title": "Nostalgico-Carol Of The Bells",
+    "genre": "navidena",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/navidena/Nostalgico-Carol%20Of%20The%20Bells.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/navidenas/navi2.jpg",
+    "description": "navidena - Vibe: General"
+  },
+  {
+    "itemId": "song_004",
+    "title": "Jingle Bells",
+    "genre": "navidena",
+    "mood": [
+      "cena"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/navidena/cena_Jingle%20Bells.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/navidenas/navi3.jpg",
+    "description": "navidena - Vibe: cena"
+  },
+  {
+    "itemId": "song_005",
+    "title": "feliz-Noel",
+    "genre": "navidena",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/navidena/feliz-Noel.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/navidenas/navi4.jpg",
+    "description": "navidena - Vibe: General"
+  },
+  {
+    "itemId": "song_006",
+    "title": "Rhythm of the City",
+    "genre": "pop",
+    "mood": [
+      "Viaje"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Viaje_Highway Dreams.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop1.jpg",
+    "description": "pop - Vibe: Viaje"
+  },
+  {
+    "itemId": "song_007",
+    "title": "Sunday Morning Coffee",
+    "genre": "pop",
+    "mood": [
+      "Chill"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Chill_Sunday%20Morning%20Coffee.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop2.jpg",
+    "description": "pop - Vibe: Chill"
+  },
+  {
+    "itemId": "song_008",
+    "title": "Broken Echoes",
+    "genre": "pop",
+    "mood": [
+      "Desamor"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Desamor_Broken%20Echoes.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop3.jpg",
+    "description": "pop - Vibe: Desamor"
+  },
+  {
+    "itemId": "song_009",
+    "title": "Neon Lights",
+    "genre": "pop",
+    "mood": [
+      "Fiesta"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Fiesta_Neon%20Lights.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop4.jpg",
+    "description": "pop - Vibe: Fiesta"
+  },
+  {
+    "itemId": "song_010",
+    "title": "Unstoppable Energy",
+    "genre": "pop",
+    "mood": [
+      "Gym"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Gym_Unstoppable%20Energy.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop5.jpg",
+    "description": "pop - Vibe: Gym"
+  },
+  {
+    "itemId": "song_011",
+    "title": "Rise Up",
+    "genre": "pop",
+    "mood": [
+      "Motivacion"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Motivacion_Rise%20Up.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop6.jpg",
+    "description": "pop - Vibe: Motivacion"
+  },
+  {
+    "itemId": "song_012",
+    "title": "Forever With You",
+    "genre": "pop",
+    "mood": [
+      "Romantico"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Romantico_Forever%20With%20You.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop7.jpg",
+    "description": "pop - Vibe: Romantico"
+  },
+  {
+    "itemId": "song_013",
+    "title": "Midnight Tears",
+    "genre": "pop",
+    "mood": [
+      "Triste"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Triste_Midnight%20Tears.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop8.jpg",
+    "description": "pop - Vibe: Triste"
+  },
+  {
+    "itemId": "song_014",
+    "title": "Golden Hour Vibes",
+    "genre": "pop",
+    "mood": [
+      "Verano"
+    ],
+    
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Verano_Golden%20Hour%20Vibes.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop9.jpg",
+    "description": "pop - Vibe: Verano"
+  },
+  {
+    "itemId": "song_015",
+    "title": "Highway Dreams",
+    "genre": "pop",
+    "mood": [
+      "Viaje"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/pop/Viaje_Highway%20Dreams.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/pop/pop10.jpg",
+    "description": "pop - Vibe: Viaje"
+  },
+  {
+    "itemId": "song_016",
+    "title": "Tarde de Hamaca",
+    "genre": "raggae",
+    "mood": [
+      "Chill"
+    ],
+  
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Chill_Tarde de Hamaca.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r1.jpg",
+    "description": "raggae - Vibe: Chill"
+  },
+  {
+    "itemId": "song_017",
+    "title": "Dancehall Night",
+    "genre": "raggae",
+    "mood": [
+      "Fiesta"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Fiesta_Dancehall Night.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r2.jpg",
+    "description": "raggae - Vibe: Fiesta"
+  },
+  {
+    "itemId": "song_018",
+    "title": "Unidad y Armonia",
+    "genre": "raggae",
+    "mood": [
+      "Paz"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Paz_Unidad y Armonia.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r3.jpg",
+    "description": "raggae - Vibe: Paz"
+  },
+  {
+    "itemId": "song_019",
+    "title": "Sol del Caribe",
+    "genre": "raggae",
+    "mood": [
+      "Playa"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Playa_Sol del Caribe.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r4.jpg",
+    "description": "raggae - Vibe: Playa"
+  },
+  {
+    "itemId": "song_020",
+    "title": "Relax-Humo en la playa",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Relax-Humo en la playa.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r5.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_021",
+    "title": "Amor Natural",
+    "genre": "raggae",
+    "mood": [
+      "Romantico"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Romantico_Amor Natural.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r6.jpg",
+    "description": "raggae - Vibe: Romantico"
+  },
+  {
+    "itemId": "song_022",
+    "title": "Coco y Mar",
+    "genre": "raggae",
+    "mood": [
+      "Verano"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Verano_Coco y Mar.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r7.jpg",
+    "description": "raggae - Vibe: Verano"
+  },
+  {
+    "itemId": "song_023",
+    "title": "Rumbo a Zion",
+    "genre": "raggae",
+    "mood": [
+      "Viaje"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/Viaje_Rumbo a Zion.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r8.jpg",
+    "description": "raggae - Vibe: Viaje"
+  },
+  {
+    "itemId": "song_024",
+    "title": "elevator-music-jazz-lounge-419360",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/elevator-music-jazz-lounge-419360.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r9.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_025",
+    "title": "emotional-piano-music-256262",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/emotional-piano-music-256262.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r10.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_026",
+    "title": "jazz-lounge-elevator-music-332339",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/jazz-lounge-elevator-music-332339.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r11.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_027",
+    "title": "just-relax-11157",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/just-relax-11157.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r12.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_028",
+    "title": "lounge-jazz-elevator-music-324902",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/lounge-jazz-elevator-music-324902.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r13.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_029",
+    "title": "reggaeton-208166",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/reggaeton-208166.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/r14.jpg",
+    "description": "raggae - Vibe: General"
+  },
+  {
+    "itemId": "song_030",
+    "title": "relax-elevador",
+    "genre": "raggae",
+    "mood": [
+      "General"
+    ],
+    "audioSrc": "https://d3dzx21eajwj7z.cloudfront.net/music/reggae/relax-elevador.mp3",
+    "urlImage": "https://d3dzx21eajwj7z.cloudfront.net/covers/raggae/cover.jpg",
+    "description": "raggae - Vibe: General"
+  }
+]

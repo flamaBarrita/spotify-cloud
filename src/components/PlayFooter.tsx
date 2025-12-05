@@ -18,11 +18,13 @@ export default function PlayerFooter() {
         }
       }
     }, [isPlaying, currentSong]);
+    console.log("🎵 Datos de la canción actual:", currentSong);
+    console.log("🔗 URL del audio:", currentSong?.audioSrc);
 
     if (!currentSong) {
         return (
             <footer className="bg-gray-800 p-4 text-center border-t border-gray-700">
-                Selecciona una canción de tu catálogo Híbrido para reproducir.
+                Selecciona una canción para reproducir.
             </footer>
         );
     }
