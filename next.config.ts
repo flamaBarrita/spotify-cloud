@@ -1,6 +1,8 @@
 // NOTA: Quitamos la importación de tipos estricta para evitar el error de 'eslint'
 // import type { NextConfig } from "next"; 
 
+import { env } from "process";
+
 const nextConfig = {
   // 1. Silenciar error de Turbopack
   turbopack: {},
@@ -33,6 +35,12 @@ const nextConfig = {
         hostname: 'images.pexels.com',
       },
     ],
+  },
+
+  // 5. Environment Variables
+  env: {
+    APP_AWS_ACCESS_KEY_ID: process.env.APP_AWS_ACCESS_KEY_ID,
+    APP_AWS_SECRET_ACCESS_KEY: process.env.APP_AWS_SECRET_ACCESS_KEY,
   },
 
   // 5. Fix para el error de 'fs'
