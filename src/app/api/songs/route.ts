@@ -2,24 +2,21 @@ import { NextResponse } from 'next/server';
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import { DynamoDBDocumentClient, ScanCommand } from "@aws-sdk/lib-dynamodb";
 
-const client = new DynamoDBClient({
-    region: "us-west-2", // <--- TU REGIÓN (Oregon)
-    credentials: {
-        accessKeyId: process.env.APP_AWS_ACCESS_KEY_ID!,
-        secretAccessKey: process.env.APP_AWS_SECRET_ACCESS_KEY!
-    }
-});
-
-
-
-
-const docClient = DynamoDBDocumentClient.from(client);
-
 export async function GET() {
     try {
         const command = new ScanCommand({
             TableName: "StreamingContent",
         });
+
+        const client = new DynamoDBClient({
+        region: "us-west-2", // <--- TU REGIÓN (Oregon)
+        credentials: {
+            accessKeyId: process.env.APP_AWS_ACCESS_KEY_ID!,
+            secretAccessKey: process.env.APP_AWS_SECRET_ACCESS_KEY!
+    }
+});
+
+        const docClient = DynamoDBDocumentClient.from(client);
 
         const response = await docClient.send(command);
 
