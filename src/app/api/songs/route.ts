@@ -10,6 +10,9 @@ const client = new DynamoDBClient({
     }
 });
 
+
+
+
 const docClient = DynamoDBDocumentClient.from(client);
 
 export async function GET() {
@@ -19,6 +22,18 @@ export async function GET() {
         });
 
         const response = await docClient.send(command);
+
+
+        const keyId = process.env.APP_AWS_ACCESS_KEY_ID;
+    
+    console.log("🔍 DIAGNÓSTICO DE VARIABLES:");
+    if (!keyId) {
+        console.error("❌ ERROR: La variable APP_AWS_ACCESS_KEY_ID es undefined (vacía).");
+    } else {
+        // Solo mostramos los últimos 4 caracteres por seguridad
+        console.log(`✅ La variable EXISTE. Termina en: ...${keyId.slice(-4)}`);
+        console.log(`📏 Longitud de la clave: ${keyId.length} caracteres (debe ser 20)`);
+    }
 
         // 💥 EL MAPEO CORREGIDO 💥
         const cleanedSongs = (response.Items || []).map((item: any) => ({
